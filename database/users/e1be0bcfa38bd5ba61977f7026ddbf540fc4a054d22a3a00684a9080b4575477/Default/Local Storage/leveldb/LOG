@@ -1,1 +1,7 @@
-2023/07/08-07:22:51.418 7e0 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/14-07:23:57.652 7d2 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/14-07:32:39.871 7d6 Level-0 table #11: started
+2023/07/14-07:32:39.874 7d6 Level-0 table #11: 6979 bytes OK
+2023/07/14-07:32:39.875 7d6 Delete type=0 #9
+2023/07/14-07:39:44.902 7d2 Level-0 table #13: started
+2023/07/14-07:39:44.905 7d2 Level-0 table #13: 6977 bytes OK
+2023/07/14-07:39:44.925 7d2 Delete type=0 #10
