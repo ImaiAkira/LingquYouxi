@@ -1,19 +1,4 @@
-2023/07/15-07:23:39.937 81f Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/15-07:29:36.793 81f Level-0 table #17: started
-2023/07/15-07:29:36.809 81f Level-0 table #17: 6968 bytes OK
-2023/07/15-07:29:36.812 81f Delete type=0 #15
-2023/07/15-07:39:36.825 81c Level-0 table #19: started
-2023/07/15-07:39:36.827 81c Level-0 table #19: 6936 bytes OK
-2023/07/15-07:39:36.829 81c Delete type=0 #16
-2023/07/15-07:39:36.829 81c Compacting 4@0 + 1@1 files
-2023/07/15-07:39:36.832 81c Generated table #20@0: 523 keys, 3995 bytes
-2023/07/15-07:39:36.832 81c Compacted 4@0 + 1@1 files => 3995 bytes
-2023/07/15-07:39:36.834 81c compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/15-07:39:36.835 81c Delete type=2 #13
-2023/07/15-07:39:36.835 81c Delete type=2 #19
-2023/07/15-07:39:36.835 81c Delete type=2 #7
-2023/07/15-07:39:36.835 81c Delete type=2 #17
-2023/07/15-07:39:36.835 81c Delete type=2 #11
-2023/07/15-07:47:28.305 81c Level-0 table #22: started
-2023/07/15-07:47:28.307 81c Level-0 table #22: 7002 bytes OK
-2023/07/15-07:47:28.309 81c Delete type=0 #18
+2023/07/21-07:21:01.669 7e2 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/21-07:21:01.678 7e2 Delete type=2 #7
+2023/07/21-07:21:01.679 7e2 Delete type=2 #11
+2023/07/21-07:21:01.682 7e2 Delete type=2 #13
