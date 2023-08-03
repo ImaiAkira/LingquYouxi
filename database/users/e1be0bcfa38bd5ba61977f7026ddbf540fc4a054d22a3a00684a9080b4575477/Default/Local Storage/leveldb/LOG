@@ -1,19 +1,16 @@
-2023/07/29-07:19:55.942 805 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/29-07:19:55.943 805 Delete type=2 #7
-2023/07/29-07:19:55.943 805 Delete type=2 #11
-2023/07/29-07:19:55.943 805 Delete type=2 #13
-2023/07/29-07:25:39.664 805 Level-0 table #30: started
-2023/07/29-07:25:39.665 805 Level-0 table #30: 6976 bytes OK
-2023/07/29-07:25:39.667 805 Delete type=0 #28
-2023/07/29-07:39:36.128 805 Level-0 table #32: started
-2023/07/29-07:39:36.130 805 Level-0 table #32: 6984 bytes OK
-2023/07/29-07:39:36.131 805 Delete type=0 #29
-2023/07/29-07:39:36.131 805 Compacting 4@0 + 1@1 files
-2023/07/29-07:39:36.135 805 Generated table #33@0: 523 keys, 3996 bytes
-2023/07/29-07:39:36.135 805 Compacted 4@0 + 1@1 files => 3996 bytes
-2023/07/29-07:39:36.136 805 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/29-07:39:36.137 805 Delete type=2 #32
-2023/07/29-07:39:36.137 805 Delete type=2 #20
-2023/07/29-07:39:36.137 805 Delete type=2 #22
-2023/07/29-07:39:36.137 805 Delete type=2 #26
-2023/07/29-07:39:36.137 805 Delete type=2 #30
+2023/08/04-07:19:57.670 824 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/04-07:19:57.672 824 Delete type=2 #7
+2023/08/04-07:19:57.672 824 Delete type=2 #13
+2023/08/04-07:19:57.672 824 Delete type=2 #22
+2023/08/04-07:19:57.672 824 Delete type=2 #11
+2023/08/04-07:19:57.673 824 Delete type=2 #26
+2023/08/04-07:19:57.673 824 Delete type=2 #20
+2023/08/04-07:28:01.315 824 Level-0 table #37: started
+2023/08/04-07:28:01.330 824 Level-0 table #37: 6993 bytes OK
+2023/08/04-07:28:01.348 824 Delete type=0 #35
+2023/08/04-07:33:44.699 826 Level-0 table #39: started
+2023/08/04-07:33:44.701 826 Level-0 table #39: 6960 bytes OK
+2023/08/04-07:33:44.703 826 Delete type=0 #36
+2023/08/04-07:38:06.100 824 Level-0 table #41: started
+2023/08/04-07:38:06.103 824 Level-0 table #41: 6964 bytes OK
+2023/08/04-07:38:06.109 824 Delete type=0 #38
