@@ -1,14 +1,7 @@
-2023/08/04-07:19:57.826 824 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Session Storage/MANIFEST-000001
-2023/08/04-07:19:57.828 824 Delete type=2 #17
-2023/08/04-07:19:57.828 824 Delete type=2 #15
-2023/08/04-07:19:57.828 824 Delete type=2 #9
-2023/08/04-07:19:57.828 824 Delete type=2 #13
-2023/08/04-07:19:57.828 824 Delete type=2 #19
-2023/08/04-07:33:17.203 824 Level-0 table #30: started
-2023/08/04-07:33:17.206 824 Level-0 table #30: 9936 bytes OK
-2023/08/04-07:33:17.208 824 Delete type=0 #28
-2023/08/04-07:38:21.187 826 Level-0 table #32: started
-2023/08/04-07:38:21.189 826 Level-0 table #32: 9537 bytes OK
-2023/08/04-07:38:21.191 826 Delete type=0 #29
-2023/08/04-07:45:32.989 824 Level-0 table #34: started
-2023/08/04-07:45:33.003 824 Level-0 table #34: 201719 bytes OK
+2023/08/05-07:19:14.845 84f Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Session Storage/MANIFEST-000001
+2023/08/05-07:19:14.857 84f Delete type=2 #17
+2023/08/05-07:19:14.857 84f Delete type=2 #15
+2023/08/05-07:19:14.857 84f Delete type=2 #9
+2023/08/05-07:19:14.857 84f Delete type=2 #34
+2023/08/05-07:19:14.857 84f Delete type=2 #13
+2023/08/05-07:19:14.857 84f Delete type=2 #19

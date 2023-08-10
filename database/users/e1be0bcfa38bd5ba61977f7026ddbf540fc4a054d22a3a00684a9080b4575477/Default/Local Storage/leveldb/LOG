@@ -1,7 +1,19 @@
-2023/08/05-07:19:14.767 84f Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/05-07:19:14.771 84f Delete type=2 #7
-2023/08/05-07:19:14.772 84f Delete type=2 #13
-2023/08/05-07:19:14.772 84f Delete type=2 #22
-2023/08/05-07:19:14.772 84f Delete type=2 #11
-2023/08/05-07:19:14.772 84f Delete type=2 #26
-2023/08/05-07:19:14.772 84f Delete type=2 #20
+2023/08/11-07:19:33.350 7f9 Reusing MANIFEST /home/runner/work/LingquYouxi/LingquYouxi/epic/src/database/users/e1be0bcfa38bd5ba61977f7026ddbf540fc4a054d22a3a00684a9080b4575477/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/11-07:19:33.353 7f9 Delete type=2 #7
+2023/08/11-07:19:33.354 7f9 Delete type=2 #13
+2023/08/11-07:19:33.354 7f9 Delete type=2 #22
+2023/08/11-07:19:33.354 7f9 Delete type=2 #11
+2023/08/11-07:19:33.354 7f9 Delete type=2 #26
+2023/08/11-07:19:33.354 7f9 Delete type=2 #20
+2023/08/11-07:34:00.939 7fb Level-0 table #45: started
+2023/08/11-07:34:00.942 7fb Level-0 table #45: 6982 bytes OK
+2023/08/11-07:34:00.944 7fb Delete type=0 #43
+2023/08/11-07:34:00.944 7fb Compacting 4@0 + 1@1 files
+2023/08/11-07:34:00.948 7fb Generated table #46@0: 523 keys, 4010 bytes
+2023/08/11-07:34:00.948 7fb Compacted 4@0 + 1@1 files => 4010 bytes
+2023/08/11-07:34:00.949 7fb compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/08/11-07:34:00.950 7fb Delete type=2 #41
+2023/08/11-07:34:00.950 7fb Delete type=2 #37
+2023/08/11-07:34:00.950 7fb Delete type=2 #45
+2023/08/11-07:34:00.950 7fb Delete type=2 #33
+2023/08/11-07:34:00.950 7fb Delete type=2 #39
